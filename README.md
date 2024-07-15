@@ -36,7 +36,7 @@ Clona el repositorio desde GitHub:
 
 _bash_
 ``` 
-git clone https://github.com/your-username/tech-foro-hub.git
+git clone https://github.com/alexvadelgado/ForoHub.git
 ``` 
 **Abre el proyecto en tu IDE preferido (por ejemplo, IntelliJ IDEA).**
 
